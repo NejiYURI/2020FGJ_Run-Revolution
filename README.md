@@ -2,6 +2,7 @@
 2020FGJ第四組 奔跑吧進化論
 
 此為2020FGJ台中場 第四組的遊戲原始碼
+使用的Unity版本為2020.1.3f1
 
 遊戲連結:https://neji-yuri.itch.io/run-revolution
 
